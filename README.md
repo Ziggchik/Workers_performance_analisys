@@ -10,7 +10,7 @@
 4) In Unzip files open  "Workers_performance_analisys.sln"
 6) Save open project (Ctrl+Shift+S) in any place on you computer
 7) Press buttons combination "Shift+F5" to launch application
-### Open with Visual Stido:
+### Open with Visual Studio:
 1) Download Visual Studio. link for download: https://visualstudio.microsoft.com/ru/downloads
 2) Press button "Open with Visual Studio"
 3) In Visual Studio click to button "Clone repository"
